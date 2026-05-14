@@ -9,7 +9,7 @@ Estudante de Ciências Contábeis no ES, trabalhando na área fiscal com ICMS, P
 Não sou dev senior nem especialista em nada ainda. Sei o básico de HTML, CSS, JS, PHP e Python, e estou construindo coisas reais enquanto aprendo.
 
 ```yaml
-estudando  : Ciências Contábeis · UNESC · Espírito Santo, BR
+estudando  : Ciências Contábeis · Espírito Santo, BR
 trabalhando: área fiscal - ICMS, PIS, COFINS, NF-e, SEFAZ
 aprendendo : programação na prática, construindo projetos reais
 stack base : HTML · CSS · JS · PHP · Python

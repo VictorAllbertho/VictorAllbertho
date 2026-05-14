@@ -1,141 +1,112 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080C14,40:111827,100:C9A84C&text=VICTOR%20ALLBERTHO&fontColor=C9A84C&fontSize=52&fontAlignY=40&desc=Backend%20Engineer%20•%20SaaS%20Builder%20•%20Automation&descColor=8A9BB5&descAlignY=60&animation=fadeIn"/>
+![banner](./banner.svg)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=750&lines=Backend+Engineering;Fiscal+Automation;SaaS+Architecture;AI+Integrations;Building+Real+Systems)](https://git.io/typing-svg)
+## About
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Backend-080C14?style=for-the-badge&logo=serverless&logoColor=C9A84C"/>
-<img src="https://img.shields.io/badge/SaaS-111827?style=for-the-badge&logo=icloud&logoColor=C9A84C"/>
-<img src="https://img.shields.io/badge/Automation-080C14?style=for-the-badge&logo=n8n&logoColor=C9A84C"/>
-<img src="https://img.shields.io/badge/AI-111827?style=for-the-badge&logo=openai&logoColor=C9A84C"/>
-
-</div>
-
-<br>
-
-# About Me
+Backend engineer and fiscal automation specialist based in Espírito Santo, Brazil. I build SaaS platforms, automation pipelines, and AI-powered tools focused on the Brazilian fiscal ecosystem — NF-e, CT-e, XML processing, and SEFAZ integrations.
 
 ```yaml
-Name: Victor Allbertho
-Location: Brazil
-
-Focus:
-  - Backend Engineering
-  - SaaS Platforms
-  - Fiscal Automation
-  - API Integrations
-  - Artificial Intelligence
-
-Currently Building:
-  - NFE SaaS Platform
-  - AI Fiscal Classification Systems
-  - Automation Workflows
+role       : Fiscal Automation Engineer & Viber Coder
+stack      : PHP · Python · MySQL · n8n · Claude AI · Selenium
+domain     : NF-e / CT-e / DANFE · SEFAZ · CFOP · ICMS · PIS · COFINS
+currently  : Building NFE SaaS — fiscal automation platform in production
+mindset    : "Ship it. Automate it. Scale it."
 ```
 
 <br>
 
-# Featured Project
+---
 
-<div align="center">
+## Featured project
 
-## NFE SaaS Platform
+### NFE SaaS Platform &nbsp;·&nbsp; [`nfe-saas-production.up.railway.app`](https://nfe-saas-production.up.railway.app/login.php)
 
-Scalable fiscal automation platform focused on XML processing, authentication and SEFAZ integrations.
+Scalable fiscal automation platform for the Brazilian market. Handles NF-e/CT-e authentication, XML processing, SEFAZ integration, DANFE generation, and backend fiscal workflows — deployed on Railway.
 
-<br>
-
-<img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=C9A84C"/>
-<img src="https://img.shields.io/badge/MySQL-080C14?style=for-the-badge&logo=mysql&logoColor=C9A84C"/>
-<img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=C9A84C"/>
-<img src="https://img.shields.io/badge/APIs-080C14?style=for-the-badge&logo=fastapi&logoColor=C9A84C"/>
-
-<br><br>
-
-<a href="https://nfe-saas-production.up.railway.app">
-<img src="https://img.shields.io/badge/LIVE_PROJECT-C9A84C?style=for-the-badge&logo=vercel&logoColor=000000"/>
-</a>
-
-</div>
+![PHP](https://img.shields.io/badge/PHP-0D1420?style=flat-square&logo=php&logoColor=C9A84C)
+![MySQL](https://img.shields.io/badge/MySQL-0D1420?style=flat-square&logo=mysql&logoColor=C9A84C)
+![Railway](https://img.shields.io/badge/Railway-0D1420?style=flat-square&logo=railway&logoColor=C9A84C)
+![XML](https://img.shields.io/badge/XML_Processing-0D1420?style=flat-square&logo=files&logoColor=C9A84C)
+![SEFAZ](https://img.shields.io/badge/SEFAZ_APIs-0D1420?style=flat-square&logo=fastapi&logoColor=C9A84C)
 
 <br>
 
-# Tech Stack
+---
 
-<div align="center">
+## Tech stack
 
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,javascript,mysql,docker,linux,bash&theme=dark"/>
+**Backend & automation**
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-0D1420?style=flat-square&logo=python&logoColor=C9A84C)
+![PHP](https://img.shields.io/badge/PHP-0D1420?style=flat-square&logo=php&logoColor=C9A84C)
+![Node.js](https://img.shields.io/badge/Node.js-0D1420?style=flat-square&logo=nodedotjs&logoColor=C9A84C)
+![MySQL](https://img.shields.io/badge/MySQL-0D1420?style=flat-square&logo=mysql&logoColor=C9A84C)
+![Docker](https://img.shields.io/badge/Docker-0D1420?style=flat-square&logo=docker&logoColor=C9A84C)
+![Linux](https://img.shields.io/badge/Linux-0D1420?style=flat-square&logo=linux&logoColor=C9A84C)
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css&theme=dark"/>
+**Fiscal & AI tooling**
 
-<br><br>
+![n8n](https://img.shields.io/badge/n8n-0D1420?style=flat-square&logo=n8n&logoColor=C9A84C)
+![Selenium](https://img.shields.io/badge/Selenium-0D1420?style=flat-square&logo=selenium&logoColor=C9A84C)
+![Claude AI](https://img.shields.io/badge/Claude_AI-0D1420?style=flat-square&logo=anthropic&logoColor=C9A84C)
+![NF-e](https://img.shields.io/badge/NF--e_/_CT--e-0D1420?style=flat-square&logo=files&logoColor=C9A84C)
+![CFOP](https://img.shields.io/badge/CFOP_Classifier-0D1420?style=flat-square&logo=databricks&logoColor=C9A84C)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,selenium&theme=dark"/>
+**Frontend**
 
-</div>
-
-<br>
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=VictorAllbertho&show_icons=true&hide_border=true&bg_color=080C14&title_color=C9A84C&icon_color=C9A84C&text_color=8A9BB5"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAllbertho&layout=compact&hide_border=true&bg_color=080C14&title_color=C9A84C&text_color=8A9BB5"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=VictorAllbertho&hide_border=true&background=080C14&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C"/>
-
-</div>
+![HTML](https://img.shields.io/badge/HTML-0D1420?style=flat-square&logo=html5&logoColor=C9A84C)
+![CSS](https://img.shields.io/badge/CSS-0D1420?style=flat-square&logo=css3&logoColor=C9A84C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1420?style=flat-square&logo=bootstrap&logoColor=C9A84C)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1420?style=flat-square&logo=tailwindcss&logoColor=C9A84C)
 
 <br>
 
-# Current Focus
+---
 
-```bash
-NFE SaaS Platform
-Fiscal Automation
-Backend APIs
-AI Integrations
-Business Systems
-Scalable Architecture
+## What I'm building
+
+```
+[active]   NFE SaaS              Fiscal automation platform — Railway, PHP, MySQL
+[active]   CFOP Classifier       AI-powered fiscal code engine — Claude API
+[active]   FSist                 SEFAZ XML/PDF downloader — Selenium + Python
+[active]   n8n Workflows         WhatsApp + Sheets + APIs — automation pipelines
+[study]    Tax reform            CBS/IBS — EC 132/2023, LC 214/2025
+[study]    Tax recovery          ICMS / PIS / COFINS — applied fiscal law
 ```
 
 <br>
 
-# Connect
+---
 
-<div align="center">
+## GitHub stats
 
-<a href="https://github.com/VictorAllbertho">
-<img src="https://img.shields.io/badge/GitHub-080C14?style=for-the-badge&logo=github&logoColor=C9A84C"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=C9A84C"/>
-</a>
-
-<a href="https://nfe-saas-production.up.railway.app">
-<img src="https://img.shields.io/badge/NFE_SaaS-C9A84C?style=for-the-badge&logo=vercel&logoColor=000000"/>
-</a>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=VictorAllbertho&show_icons=true&hide_border=true&bg_color=080C14&title_color=C9A84C&icon_color=C9A84C&text_color=8A9BB5" />
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=VictorAllbertho&show_icons=true&hide_border=true&bg_color=F6F8FF&title_color=0D1420&icon_color=C9A84C&text_color=444" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAllbertho&layout=compact&hide_border=true&bg_color=080C14&title_color=C9A84C&text_color=8A9BB5" />
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAllbertho&layout=compact&hide_border=true&bg_color=F6F8FF&title_color=0D1420&text_color=444" />
+</picture>
 
 <br>
 
-<div align="center">
+---
 
-<img src="https://komarev.com/ghpvc/?username=VictorAllbertho&color=C9A84C&style=flat-square&label=profile+views"/>
+## Connect
 
-<br><br>
+[![GitHub](https://img.shields.io/badge/VictorAllbertho-0D1420?style=flat-square&logo=github&logoColor=C9A84C)](https://github.com/VictorAllbertho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1420?style=flat-square&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/victorallbertho)
+[![NFE SaaS](https://img.shields.io/badge/NFE_SaaS_%E2%86%97-C9A84C?style=flat-square&logoColor=080C14)](https://nfe-saas-production.up.railway.app/login.php)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:C9A84C,50:111827,100:080C14"/>
+<br>
 
-</div>
+---
+
+<sub>Espírito Santo, Brasil · Fiscal Automation · SaaS · AI Tooling</sub>

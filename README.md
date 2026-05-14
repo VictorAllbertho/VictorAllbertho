@@ -102,7 +102,7 @@ Scalable fiscal automation platform for the Brazilian market. Handles NF-e/CT-e 
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/VictorAllbertho-0D1420?style=flat-square&logo=github&logoColor=C9A84C)](https://github.com/VictorAllbertho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1420?style=flat-square&logo=linkedin&logoColor=C9A84C)](https://linkedin.com/in/victorallbertho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1420?style=flat-square&logo=linkedin&logoColor=C9A84C)]([https://linkedin.com/in/victorallbertho](https://www.linkedin.com/in/victor-allbertho-alves-de-lima-308968342/))
 [![NFE SaaS](https://img.shields.io/badge/NFE_SaaS_%E2%86%97-C9A84C?style=flat-square&logoColor=080C14)](https://nfe-saas-production.up.railway.app/login.php)
 
 <br>
